@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/msnajdar/workshop3
+    repoURL: https://github.com/skoleni/workshop3/
     targetRevision: HEAD
     path: helm/hello
 
