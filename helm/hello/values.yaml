@@ -1,5 +1,5 @@
 image:
-  repository: pstast/hello-kubernetes
+  repository: msnajdar/hello-kubernetes
   tag: ""
 
 replicaCount: 2
